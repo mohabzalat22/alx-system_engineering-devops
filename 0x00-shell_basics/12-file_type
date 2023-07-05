@@ -1,0 +1,3 @@
+#!/bin/bash
+filename = $basename("/tmp/iamafile")
+echo filename##*.
